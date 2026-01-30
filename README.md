@@ -10,7 +10,7 @@ All projects are live and accessible via the links below.
 
 ### 1. G-Secure Passwords 
 🔗 Live Demo: https://g-secure-passwords.vercel.app/  
-🛠 Tech Stack: HTML, Bootstrap  
+🛠 Tech Stack: HTML, Bootstrap, JS  
 📄 Description: G-Secure passwords is meant to enable users to automatically generate strong passwords. 
 
 
