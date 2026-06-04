@@ -3,7 +3,7 @@
 
 This repository consolidates selected frontend projects I have built and deployed.  
 
-All projects are live and accessible via the links below.
+The projects are live and accessible via the links below.
 
 
 ## 🚀 Projects
